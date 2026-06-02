@@ -1,0 +1,7 @@
+BOT_TOKEN=123456789:YOUR_BOT_TOKEN
+MONGODB_URI=mongodb+srv://USERNAME:PASSWORD@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
+ADMIN_IDS=123456789,987654321
+APP_NAME=Telegram Digital Shop
+DATABASE_NAME=telegram_digital_shop
+CURRENCY=USDT
+TIMEZONE=Asia/Karachi
